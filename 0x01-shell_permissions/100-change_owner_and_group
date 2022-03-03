@@ -1,2 +1,2 @@
-#!bin/bash
-chown -R staff:vincent 0X01-shell_permissions
+#!/bin/bash
+chmod  -R vincent:staff 0x01-shell_permissions

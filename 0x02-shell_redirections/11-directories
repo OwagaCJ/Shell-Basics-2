@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 find . -typer d -not -name '.' | wc -l
+=======
+find . -type d -not -name '.' | wc -l
+>>>>>>> 5119bd48123b828be51504127d10ff74190c8276
